@@ -1,4 +1,4 @@
-&gt;&gt; INDEX
+INDEX
 # INDEX
 
 1. AP
