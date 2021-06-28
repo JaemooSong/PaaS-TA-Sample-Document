@@ -1,7 +1,7 @@
 INDEX
 # INDEX
 ### 1. AP  
-&nbsp;&nbsp;&nbsp;&nbsp;1.1. [Architecture](#1.1)  
+&nbsp;&nbsp;&nbsp;&nbsp;1.1. [Architecture](https://github.com/JaemooSong/PaaS-TA-Sample-Document/blob/master/AP/Architecture.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;1.2. [Install](https://github.com/JaemooSong/PaaS-TA-Sample-Document/blob/master/AP/install.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;1.3. How to use  
   
