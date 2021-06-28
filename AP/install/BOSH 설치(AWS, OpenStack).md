@@ -1,3 +1,6 @@
+[INDEX](https://github.com/JaemooSong/PaaS-TA-Sample-Document) &gt; [AP](https://github.com/JaemooSong/PaaS-TA-Sample-Document#1-ap) &gt; [Install](https://github.com/JaemooSong/PaaS-TA-Sample-Document/blob/master/AP/install.md)  
+[PaaS-TA 플랫폼 수동 설치](https://github.com/JaemooSong/PaaS-TA-Sample-Document/blob/master/AP/install.md#2-paas-ta-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%88%98%EB%8F%99-%EC%84%A4%EC%B9%98) &gt; BOSH 설치(AWS, OpenStack)
+
 ## Table of Contents
 
 1. [개요](#1)  
@@ -726,3 +729,6 @@ $ source create-bosh-login.sh
 ```
 $ source {BOSH_LOGIN_FILE_PATH}/{BOSH_LOGIN_FILE_NAME}
 ```
+  
+[INDEX](https://github.com/JaemooSong/PaaS-TA-Sample-Document) &gt; [AP](https://github.com/JaemooSong/PaaS-TA-Sample-Document#1-ap) &gt; [Install](https://github.com/JaemooSong/PaaS-TA-Sample-Document/blob/master/AP/install.md)  
+[PaaS-TA 플랫폼 수동 설치](https://github.com/JaemooSong/PaaS-TA-Sample-Document/blob/master/AP/install.md#2-paas-ta-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%88%98%EB%8F%99-%EC%84%A4%EC%B9%98) &gt; BOSH 설치(AWS, OpenStack)
